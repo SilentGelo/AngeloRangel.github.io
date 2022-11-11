@@ -1,0 +1,107 @@
+body{
+  background-color: #363EFF;
+  background-size: cover;
+}
+
+.profile {
+    float: right;
+    padding-top: 100px;
+    height: 1000x;
+    width: 650px;
+    padding-right: 200px;
+}
+
+header {
+  background: var(--background);
+  text-align: center;
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+}
+
+.home{
+    position:relative;
+    top:300px;
+  }
+  .mypic{
+    margin-top: -400px;
+    float: right;
+  }
+
+  .p3{
+    color: white;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 5px;
+  }
+
+div img{
+    width: 150px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+div img{
+  width: 150px;
+  margin-top: 20px;
+}
+
+div img{
+  width: 100px;
+  margin-right: -14px;
+  margin-top: 20px;
+}
+  
+  .img4{
+    float: right;
+    width: 800px;
+    height: 600px;
+    margin-top: -600px;
+    margin-left: 100px;
+    padding-right: 300px;
+  }
+  
+  .mypic{
+    float: left;
+    margin-top: -600px;
+    padding-left: 1500px;
+  }
+
+.leftcolumn{   
+    float: left;
+    position:relative;
+    width: 50%;
+    padding-left:83px;
+    bottom: 250px;
+  }
+
+.amytag{
+    font-size: 100px;
+    letter-spacing:10px;
+    color:#363EFF ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+.amyp{
+    position:relative;
+    font-size:35px;
+    text-align: left;
+    color: aliceblue;
+    letter-spacing:1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font:'san-serif', lighter;
+    margin:0;
+    overflow-y:auto;
+  
+  }
+
+.contacts{
+  background-color:#363EFF;
+  color: white;
+  font-size:50px;
+  width: 280px;
+  text-align: center;
+  padding: top
+  ;
+}
